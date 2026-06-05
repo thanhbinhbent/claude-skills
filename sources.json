@@ -1,0 +1,76 @@
+{
+  "sources": [
+    {
+      "name": "anthropics-skills",
+      "repo": "https://github.com/anthropics/skills.git",
+      "ref": "main",
+      "path": "skills",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "name": "superpowers",
+      "repo": "https://github.com/obra/superpowers.git",
+      "ref": "main",
+      "path": "skills",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "name": "addyosmani",
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "ref": "main",
+      "path": "skills",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "name": "mattpocock-eng",
+      "repo": "https://github.com/mattpocock/skills.git",
+      "ref": "main",
+      "path": "skills/engineering",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "name": "mattpocock-prod",
+      "repo": "https://github.com/mattpocock/skills.git",
+      "ref": "main",
+      "path": "skills/productivity",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "name": "mattpocock-misc",
+      "repo": "https://github.com/mattpocock/skills.git",
+      "ref": "main",
+      "path": "skills/misc",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "name": "ashfaqbs",
+      "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
+      "ref": "main",
+      "path": "skills",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "name": "sivalabs",
+      "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
+      "ref": "main",
+      "path": "skills",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "name": "umit-jvm",
+      "repo": "https://github.com/umit/skills.git",
+      "ref": "main",
+      "path": "skills",
+      "include": [],
+      "exclude": []
+    }
+  ]
+}

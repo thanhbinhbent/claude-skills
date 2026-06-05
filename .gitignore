@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+.idea/
+.vscode/
+
+# external-skills/ IS committed (so git pull brings it). Only ignore build junk:
+external-skills/**/__pycache__/
+external-skills/**/.DS_Store
+

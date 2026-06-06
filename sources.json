@@ -71,6 +71,14 @@
       "path": "skills",
       "include": [],
       "exclude": []
+    },
+    {
+      "name": "taste-skill",
+      "repo": "https://github.com/Leonxlnx/taste-skill.git",
+      "ref": "main",
+      "path": "skills",
+      "include": [],
+      "exclude": []
     }
   ]
 }

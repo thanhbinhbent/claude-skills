@@ -3,7 +3,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "test-driven-development"
   },
   "algorithmic-art": {
@@ -17,7 +17,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "api-and-interface-design"
   },
   "async-profiler": {
@@ -38,7 +38,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "brainstorming"
   },
   "brand-guidelines": {
@@ -59,7 +59,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "browser-testing-with-devtools"
   },
   "brutalist-skill": {
@@ -87,7 +87,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "ci-cd-and-automation"
   },
   "claude-api": {
@@ -101,35 +101,35 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "code-review-and-quality"
   },
   "code-simplification": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "code-simplification"
   },
   "context-engineering": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "context-engineering"
   },
   "debugging-and-error-recovery": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "debugging-and-error-recovery"
   },
   "deprecation-and-migration": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "deprecation-and-migration"
   },
   "diagnose": {
@@ -143,7 +143,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "dispatching-parallel-agents"
   },
   "doc-coauthoring": {
@@ -157,7 +157,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "documentation-and-adrs"
   },
   "docx": {
@@ -171,7 +171,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "doubt-driven-development"
   },
   "eval-harness": {
@@ -185,14 +185,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "executing-plans"
   },
   "finishing-a-development-branch": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "finishing-a-development-branch"
   },
   "frontend-design": {
@@ -213,7 +213,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "frontend-ui-engineering"
   },
   "git-guardrails-claude-code": {
@@ -227,7 +227,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "git-workflow-and-versioning"
   },
   "gpt-tasteskill": {
@@ -262,7 +262,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "idea-refine"
   },
   "image-to-code-skill": {
@@ -297,7 +297,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "incremental-implementation"
   },
   "internal-comms": {
@@ -311,7 +311,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "interview-me"
   },
   "iterative-retrieval": {
@@ -374,7 +374,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "observability-and-instrumentation"
   },
   "output-skill": {
@@ -395,14 +395,14 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "performance-optimization"
   },
   "planning-and-task-breakdown": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "planning-and-task-breakdown"
   },
   "postgres-patterns": {
@@ -444,7 +444,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "receiving-code-review"
   },
   "redesign-skill": {
@@ -458,7 +458,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "requesting-code-review"
   },
   "scaffold-exercises": {
@@ -472,7 +472,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "security-and-hardening"
   },
   "security-review": {
@@ -500,7 +500,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "shipping-and-launch"
   },
   "skill-creator": {
@@ -528,14 +528,14 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "source-driven-development"
   },
   "spec-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "spec-driven-development"
   },
   "spring-boot": {
@@ -577,14 +577,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "subagent-driven-development"
   },
   "systematic-debugging": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "systematic-debugging"
   },
   "taste-skill": {
@@ -619,7 +619,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "test-driven-development"
   },
   "theme-factory": {
@@ -654,28 +654,28 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "3a6fc6392823e31e2362091bd4e3cddf5b77af14",
+    "sha": "a5f0b176381e9fea24a61aefc243506686aa2435",
     "skill": "using-agent-skills"
   },
   "using-git-worktrees": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "using-git-worktrees"
   },
   "using-superpowers": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "using-superpowers"
   },
   "verification-before-completion": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "verification-before-completion"
   },
   "web-artifacts-builder": {
@@ -703,14 +703,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "writing-plans"
   },
   "writing-skills": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "6fd4507659784c351abbd2bc264c7162cfd386dc",
+    "sha": "8cf39006140a743dce31ba4046fceab90cc214e6",
     "skill": "writing-skills"
   },
   "xlsx": {

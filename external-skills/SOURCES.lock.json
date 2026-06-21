@@ -3,7 +3,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "test-driven-development"
   },
   "algorithmic-art": {
@@ -17,7 +17,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "api-and-interface-design"
   },
   "ask-matt": {
@@ -59,21 +59,21 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "brandkit"
   },
   "browser-testing-with-devtools": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "browser-testing-with-devtools"
   },
   "brutalist-skill": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "brutalist-skill"
   },
   "canvas-design": {
@@ -87,7 +87,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "ci-cd-and-automation"
   },
   "claude-api": {
@@ -101,14 +101,14 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "code-review-and-quality"
   },
   "code-simplification": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "code-simplification"
   },
   "codebase-design": {
@@ -122,21 +122,21 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "context-engineering"
   },
   "debugging-and-error-recovery": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "debugging-and-error-recovery"
   },
   "deprecation-and-migration": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "deprecation-and-migration"
   },
   "diagnosing-bugs": {
@@ -164,7 +164,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "documentation-and-adrs"
   },
   "docx": {
@@ -185,7 +185,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "doubt-driven-development"
   },
   "eval-harness": {
@@ -227,7 +227,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "frontend-ui-engineering"
   },
   "git-guardrails-claude-code": {
@@ -241,14 +241,14 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "git-workflow-and-versioning"
   },
   "gpt-tasteskill": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "gpt-tasteskill"
   },
   "grill-me": {
@@ -283,28 +283,28 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "idea-refine"
   },
   "image-to-code-skill": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "image-to-code-skill"
   },
   "imagegen-frontend-mobile": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "imagegen-frontend-mobile"
   },
   "imagegen-frontend-web": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "imagegen-frontend-web"
   },
   "implement": {
@@ -325,7 +325,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "incremental-implementation"
   },
   "internal-comms": {
@@ -339,7 +339,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "interview-me"
   },
   "iterative-retrieval": {
@@ -395,21 +395,21 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "minimalist-skill"
   },
   "observability-and-instrumentation": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "observability-and-instrumentation"
   },
   "output-skill": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "output-skill"
   },
   "pdf": {
@@ -423,14 +423,14 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "performance-optimization"
   },
   "planning-and-task-breakdown": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "planning-and-task-breakdown"
   },
   "postgres-patterns": {
@@ -479,7 +479,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "redesign-skill"
   },
   "requesting-code-review": {
@@ -507,7 +507,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "security-and-hardening"
   },
   "security-review": {
@@ -535,7 +535,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "shipping-and-launch"
   },
   "skill-creator": {
@@ -556,21 +556,21 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "soft-skill"
   },
   "source-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "source-driven-development"
   },
   "spec-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "spec-driven-development"
   },
   "spring-boot": {
@@ -605,7 +605,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "stitch-skill"
   },
   "subagent-driven-development": {
@@ -626,14 +626,14 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "taste-skill"
   },
   "taste-skill-v1": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "5285855df6719b6efb95d5268359e752d3d79045",
+    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
     "skill": "taste-skill-v1"
   },
   "tdd": {
@@ -689,7 +689,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "13e43f2310224d5770a7fb0a8c24c02b73da69e9",
+    "sha": "17214a29c429a19f7a9607f2c06f9d650ea87eb0",
     "skill": "using-agent-skills"
   },
   "using-git-worktrees": {

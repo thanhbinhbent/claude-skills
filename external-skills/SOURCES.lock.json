@@ -10,7 +10,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "algorithmic-art"
   },
   "api-and-interface-design": {
@@ -52,7 +52,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "brand-guidelines"
   },
   "brandkit": {
@@ -80,7 +80,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "canvas-design"
   },
   "ci-cd-and-automation": {
@@ -94,7 +94,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "claude-api"
   },
   "code-review-and-quality": {
@@ -157,7 +157,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "doc-coauthoring"
   },
   "documentation-and-adrs": {
@@ -171,7 +171,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "docx"
   },
   "domain-modeling": {
@@ -213,7 +213,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "frontend-design"
   },
   "frontend-patterns": {
@@ -332,7 +332,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "internal-comms"
   },
   "interview-me": {
@@ -381,7 +381,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "mcp-builder"
   },
   "migrate-to-shoehorn": {
@@ -416,7 +416,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "pdf"
   },
   "performance-optimization": {
@@ -444,7 +444,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "pptx"
   },
   "prototype": {
@@ -542,14 +542,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "skill-creator"
   },
   "slack-gif-creator": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "slack-gif-creator"
   },
   "soft-skill": {
@@ -661,7 +661,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "theme-factory"
   },
   "to-issues": {
@@ -717,14 +717,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "web-artifacts-builder"
   },
   "webapp-testing": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "webapp-testing"
   },
   "writing-great-skills": {
@@ -752,7 +752,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "57546260929473d4e0d1c1bb75297be2fdfa1949",
+    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
     "skill": "xlsx"
   }
 }

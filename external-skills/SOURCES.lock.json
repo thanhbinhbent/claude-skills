@@ -10,7 +10,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "algorithmic-art"
   },
   "api-and-interface-design": {
@@ -24,7 +24,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "ask-matt"
   },
   "async-profiler": {
@@ -52,7 +52,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "brand-guidelines"
   },
   "brandkit": {
@@ -80,7 +80,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "canvas-design"
   },
   "ci-cd-and-automation": {
@@ -94,8 +94,15 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "claude-api"
+  },
+  "code-review": {
+    "source": "mattpocock-eng",
+    "repo": "https://github.com/mattpocock/skills.git",
+    "ref": "main",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
+    "skill": "code-review"
   },
   "code-review-and-quality": {
     "source": "addyosmani",
@@ -115,7 +122,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "codebase-design"
   },
   "context-engineering": {
@@ -143,7 +150,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "diagnosing-bugs"
   },
   "dispatching-parallel-agents": {
@@ -157,7 +164,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "doc-coauthoring"
   },
   "documentation-and-adrs": {
@@ -171,14 +178,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "docx"
   },
   "domain-modeling": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "domain-modeling"
   },
   "doubt-driven-development": {
@@ -213,7 +220,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "frontend-design"
   },
   "frontend-patterns": {
@@ -234,7 +241,7 @@
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "git-guardrails-claude-code"
   },
   "git-workflow-and-versioning": {
@@ -255,28 +262,28 @@
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "grill-me"
   },
   "grill-with-docs": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "grill-with-docs"
   },
   "grilling": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "grilling"
   },
   "handoff": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "handoff"
   },
   "idea-refine": {
@@ -311,14 +318,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "implement"
   },
   "improve-codebase-architecture": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "improve-codebase-architecture"
   },
   "incremental-implementation": {
@@ -332,7 +339,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "internal-comms"
   },
   "interview-me": {
@@ -381,14 +388,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "mcp-builder"
   },
   "migrate-to-shoehorn": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "migrate-to-shoehorn"
   },
   "minimalist-skill": {
@@ -416,7 +423,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "pdf"
   },
   "performance-optimization": {
@@ -444,14 +451,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "pptx"
   },
   "prototype": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "prototype"
   },
   "python-patterns": {
@@ -493,14 +500,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "resolving-merge-conflicts"
   },
   "scaffold-exercises": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "scaffold-exercises"
   },
   "security-and-hardening": {
@@ -521,14 +528,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "setup-matt-pocock-skills"
   },
   "setup-pre-commit": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "setup-pre-commit"
   },
   "shipping-and-launch": {
@@ -542,14 +549,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "skill-creator"
   },
   "slack-gif-creator": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "slack-gif-creator"
   },
   "soft-skill": {
@@ -640,14 +647,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "tdd"
   },
   "teach": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "teach"
   },
   "test-driven-development": {
@@ -661,28 +668,28 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "theme-factory"
   },
   "to-issues": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "to-issues"
   },
   "to-prd": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "to-prd"
   },
   "triage": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "triage"
   },
   "using-agent-skills": {
@@ -717,21 +724,21 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "web-artifacts-builder"
   },
   "webapp-testing": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "webapp-testing"
   },
   "writing-great-skills": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "ca85062d4610ef5157607d273c4153ce14e43a60",
+    "sha": "c6b033e93abc32d7a7a9b8629d21d129e2327818",
     "skill": "writing-great-skills"
   },
   "writing-plans": {
@@ -752,7 +759,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "35414756ca55738e050562e272a6bbc6273aa926",
+    "sha": "9d2f1ae187231d8199c64b5b762e1bdf2244733d",
     "skill": "xlsx"
   }
 }

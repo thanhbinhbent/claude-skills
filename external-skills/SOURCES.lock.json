@@ -59,7 +59,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "brandkit"
   },
   "browser-testing-with-devtools": {
@@ -73,7 +73,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "brutalist-skill"
   },
   "canvas-design": {
@@ -255,7 +255,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "gpt-tasteskill"
   },
   "grill-me": {
@@ -297,21 +297,21 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "image-to-code-skill"
   },
   "imagegen-frontend-mobile": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "imagegen-frontend-mobile"
   },
   "imagegen-frontend-web": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "imagegen-frontend-web"
   },
   "implement": {
@@ -381,7 +381,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "aaaa344afc91c461c424d275ae0a20ce06aed82b",
+    "sha": "03dbcb2cae449c156ae2ee46e0eec28e6ba8296c",
     "skill": "jspecify"
   },
   "mcp-builder": {
@@ -402,7 +402,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "minimalist-skill"
   },
   "observability-and-instrumentation": {
@@ -416,14 +416,14 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "output-skill"
   },
   "pair-programming": {
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "aaaa344afc91c461c424d275ae0a20ce06aed82b",
+    "sha": "03dbcb2cae449c156ae2ee46e0eec28e6ba8296c",
     "skill": "pair-programming"
   },
   "pdf": {
@@ -493,7 +493,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "redesign-skill"
   },
   "requesting-code-review": {
@@ -577,7 +577,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "soft-skill"
   },
   "source-driven-development": {
@@ -598,7 +598,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "aaaa344afc91c461c424d275ae0a20ce06aed82b",
+    "sha": "03dbcb2cae449c156ae2ee46e0eec28e6ba8296c",
     "skill": "spring-boot"
   },
   "springboot-patterns": {
@@ -626,7 +626,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "stitch-skill"
   },
   "subagent-driven-development": {
@@ -647,14 +647,14 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "taste-skill"
   },
   "taste-skill-v1": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "06d6028b5c623016c59ce8536f578e5a1127b499",
+    "sha": "b17742737e796305d829b3ad39eda3add0d79060",
     "skill": "taste-skill-v1"
   },
   "tdd": {

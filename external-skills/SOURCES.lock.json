@@ -45,7 +45,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "brainstorming"
   },
   "brand-guidelines": {
@@ -59,7 +59,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "brandkit"
   },
   "browser-testing-with-devtools": {
@@ -73,7 +73,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "brutalist-skill"
   },
   "canvas-design": {
@@ -157,7 +157,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "dispatching-parallel-agents"
   },
   "doc-coauthoring": {
@@ -206,14 +206,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "executing-plans"
   },
   "finishing-a-development-branch": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "finishing-a-development-branch"
   },
   "frontend-design": {
@@ -255,7 +255,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "gpt-tasteskill"
   },
   "grill-me": {
@@ -297,21 +297,21 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "image-to-code-skill"
   },
   "imagegen-frontend-mobile": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "imagegen-frontend-mobile"
   },
   "imagegen-frontend-web": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "imagegen-frontend-web"
   },
   "implement": {
@@ -402,7 +402,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "minimalist-skill"
   },
   "observability-and-instrumentation": {
@@ -416,7 +416,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "output-skill"
   },
   "pair-programming": {
@@ -486,21 +486,21 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "receiving-code-review"
   },
   "redesign-skill": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "redesign-skill"
   },
   "requesting-code-review": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "requesting-code-review"
   },
   "research": {
@@ -577,7 +577,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "soft-skill"
   },
   "source-driven-development": {
@@ -626,35 +626,35 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "stitch-skill"
   },
   "subagent-driven-development": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "subagent-driven-development"
   },
   "systematic-debugging": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "systematic-debugging"
   },
   "taste-skill": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "taste-skill"
   },
   "taste-skill-v1": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "98565e65bc3274ddf6eb0838734341714057178b",
+    "sha": "e988add20dab0fa97d7a76781c48961c8184288e",
     "skill": "taste-skill-v1"
   },
   "tdd": {
@@ -675,7 +675,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "test-driven-development"
   },
   "theme-factory": {
@@ -717,21 +717,21 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "using-git-worktrees"
   },
   "using-superpowers": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "using-superpowers"
   },
   "verification-before-completion": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "verification-before-completion"
   },
   "wayfinder": {
@@ -766,14 +766,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "writing-plans"
   },
   "writing-skills": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "d884ae04edebef577e82ff7c4e143debd0bbec99",
+    "sha": "3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9",
     "skill": "writing-skills"
   },
   "xlsx": {

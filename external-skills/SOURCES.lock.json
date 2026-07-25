@@ -3,21 +3,21 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "test-driven-development"
   },
   "algorithmic-art": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "algorithmic-art"
   },
   "api-and-interface-design": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "api-and-interface-design"
   },
   "ask-matt": {
@@ -52,7 +52,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "brand-guidelines"
   },
   "brandkit": {
@@ -66,7 +66,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "browser-testing-with-devtools"
   },
   "brutalist-skill": {
@@ -80,21 +80,21 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "canvas-design"
   },
   "ci-cd-and-automation": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "ci-cd-and-automation"
   },
   "claude-api": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "claude-api"
   },
   "code-review": {
@@ -108,14 +108,14 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "code-review-and-quality"
   },
   "code-simplification": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "code-simplification"
   },
   "codebase-design": {
@@ -129,21 +129,21 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "context-engineering"
   },
   "debugging-and-error-recovery": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "debugging-and-error-recovery"
   },
   "deprecation-and-migration": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "deprecation-and-migration"
   },
   "diagnosing-bugs": {
@@ -164,21 +164,21 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "doc-coauthoring"
   },
   "documentation-and-adrs": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "documentation-and-adrs"
   },
   "docx": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "docx"
   },
   "domain-modeling": {
@@ -192,7 +192,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "doubt-driven-development"
   },
   "eval-harness": {
@@ -220,7 +220,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "frontend-design"
   },
   "frontend-patterns": {
@@ -234,7 +234,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "frontend-ui-engineering"
   },
   "git-guardrails-claude-code": {
@@ -248,7 +248,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "git-workflow-and-versioning"
   },
   "gpt-tasteskill": {
@@ -290,7 +290,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "idea-refine"
   },
   "image-to-code-skill": {
@@ -332,21 +332,21 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "incremental-implementation"
   },
   "internal-comms": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "internal-comms"
   },
   "interview-me": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "interview-me"
   },
   "iterative-retrieval": {
@@ -388,7 +388,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "mcp-builder"
   },
   "migrate-to-shoehorn": {
@@ -409,7 +409,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "observability-and-instrumentation"
   },
   "output-skill": {
@@ -430,21 +430,21 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "pdf"
   },
   "performance-optimization": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "performance-optimization"
   },
   "planning-and-task-breakdown": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "planning-and-task-breakdown"
   },
   "postgres-patterns": {
@@ -458,7 +458,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "pptx"
   },
   "prototype": {
@@ -528,7 +528,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "security-and-hardening"
   },
   "security-review": {
@@ -556,21 +556,21 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "shipping-and-launch"
   },
   "skill-creator": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "skill-creator"
   },
   "slack-gif-creator": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "slack-gif-creator"
   },
   "soft-skill": {
@@ -584,14 +584,14 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "source-driven-development"
   },
   "spec-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "spec-driven-development"
   },
   "spring-boot": {
@@ -682,7 +682,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "theme-factory"
   },
   "to-spec": {
@@ -710,7 +710,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "fefc4075ddfd8363d3b2aa8b26e6440f1ce204c0",
+    "sha": "ff2df4c07e7836a092ed28e1e9b42f4d6009280c",
     "skill": "using-agent-skills"
   },
   "using-git-worktrees": {
@@ -745,14 +745,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "web-artifacts-builder"
   },
   "webapp-testing": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "webapp-testing"
   },
   "writing-great-skills": {
@@ -780,7 +780,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "1f630fdf9259cec4a14913127dfd7c3b69ef72eb",
+    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
     "skill": "xlsx"
   }
 }

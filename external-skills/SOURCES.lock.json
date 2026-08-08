@@ -10,7 +10,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "algorithmic-art"
   },
   "api-and-interface-design": {
@@ -52,7 +52,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "brand-guidelines"
   },
   "brandkit": {
@@ -80,7 +80,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "canvas-design"
   },
   "ci-cd-and-automation": {
@@ -94,7 +94,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "claude-api"
   },
   "code-review": {
@@ -164,7 +164,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "doc-coauthoring"
   },
   "documentation-and-adrs": {
@@ -178,7 +178,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "docx"
   },
   "domain-modeling": {
@@ -220,7 +220,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "frontend-design"
   },
   "frontend-patterns": {
@@ -339,7 +339,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "internal-comms"
   },
   "interview-me": {
@@ -360,7 +360,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "78c2e107be06600d4f2f3108319a96c1d8249692",
+    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
     "skill": "java-code-review"
   },
   "java-coding-standards": {
@@ -388,14 +388,14 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "78c2e107be06600d4f2f3108319a96c1d8249692",
+    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
     "skill": "jspecify"
   },
   "mcp-builder": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "mcp-builder"
   },
   "migrate-to-shoehorn": {
@@ -430,14 +430,14 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "78c2e107be06600d4f2f3108319a96c1d8249692",
+    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
     "skill": "pair-programming"
   },
   "pdf": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "pdf"
   },
   "performance-optimization": {
@@ -465,7 +465,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "pptx"
   },
   "prototype": {
@@ -570,14 +570,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "skill-creator"
   },
   "slack-gif-creator": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "slack-gif-creator"
   },
   "soft-skill": {
@@ -605,14 +605,14 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "78c2e107be06600d4f2f3108319a96c1d8249692",
+    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
     "skill": "spring-boot"
   },
   "spring-modulith-verifier": {
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "78c2e107be06600d4f2f3108319a96c1d8249692",
+    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
     "skill": "spring-modulith-verifier"
   },
   "springboot-patterns": {
@@ -696,7 +696,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "theme-factory"
   },
   "to-questionnaire": {
@@ -773,14 +773,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "web-artifacts-builder"
   },
   "webapp-testing": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "webapp-testing"
   },
   "wizard": {
@@ -815,7 +815,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "b29e7cf65e5cb78a5ac33d582270551bc74a14eb",
+    "sha": "f17010c9bb483898c1d9c9f42dde2b3a98889434",
     "skill": "xlsx"
   }
 }

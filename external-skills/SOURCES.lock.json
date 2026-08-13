@@ -45,7 +45,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "brainstorming"
   },
   "brand-guidelines": {
@@ -157,7 +157,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "dispatching-parallel-agents"
   },
   "doc-coauthoring": {
@@ -206,14 +206,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "executing-plans"
   },
   "finishing-a-development-branch": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "finishing-a-development-branch"
   },
   "frontend-design": {
@@ -493,7 +493,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "receiving-code-review"
   },
   "redesign-skill": {
@@ -507,7 +507,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "requesting-code-review"
   },
   "research": {
@@ -647,14 +647,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "subagent-driven-development"
   },
   "systematic-debugging": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "systematic-debugging"
   },
   "taste-skill": {
@@ -689,7 +689,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "test-driven-development"
   },
   "theme-factory": {
@@ -738,21 +738,21 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "using-git-worktrees"
   },
   "using-superpowers": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "using-superpowers"
   },
   "verification-before-completion": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "verification-before-completion"
   },
   "wait-what": {
@@ -801,14 +801,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "writing-plans"
   },
   "writing-skills": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "44c9b2d6e889982ac18c27d05a19fefe335194e1",
+    "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
     "skill": "writing-skills"
   },
   "xlsx": {

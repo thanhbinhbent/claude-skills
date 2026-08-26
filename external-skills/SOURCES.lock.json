@@ -374,7 +374,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
+    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
     "skill": "java-code-review"
   },
   "java-coding-standards": {
@@ -402,7 +402,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
+    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
     "skill": "jspecify"
   },
   "mcp-builder": {
@@ -444,7 +444,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
+    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
     "skill": "pair-programming"
   },
   "pdf": {
@@ -481,6 +481,13 @@
     "ref": "main",
     "sha": "3b3fad96af16a10759d930941b4520ba0c40edae",
     "skill": "pptx"
+  },
+  "progen": {
+    "source": "sivalabs",
+    "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
+    "ref": "main",
+    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
+    "skill": "progen"
   },
   "prototype": {
     "source": "mattpocock-eng",
@@ -619,14 +626,14 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
+    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
     "skill": "spring-boot"
   },
   "spring-modulith-verifier": {
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "44ec2904028766c626ccc515531fd83abbb51fda",
+    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
     "skill": "spring-modulith-verifier"
   },
   "springboot-patterns": {

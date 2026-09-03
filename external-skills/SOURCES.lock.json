@@ -10,7 +10,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "test-driven-development"
   },
   "algorithmic-art": {
@@ -24,8 +24,15 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "api-and-interface-design"
+  },
+  "apply-renovate-prs": {
+    "source": "sivalabs",
+    "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
+    "ref": "main",
+    "sha": "031ea5ce90b5617ef8b3257c3d0739e6b613aaeb",
+    "skill": "apply-renovate-prs"
   },
   "ask-matt": {
     "source": "mattpocock-eng",
@@ -73,7 +80,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "browser-testing-with-devtools"
   },
   "brutalist-skill": {
@@ -94,7 +101,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "ci-cd-and-automation"
   },
   "claude-api": {
@@ -115,14 +122,14 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "code-review-and-quality"
   },
   "code-simplification": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "code-simplification"
   },
   "codebase-design": {
@@ -136,28 +143,28 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "constraint-driven-development"
   },
   "context-engineering": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "context-engineering"
   },
   "debugging-and-error-recovery": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "debugging-and-error-recovery"
   },
   "deprecation-and-migration": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "deprecation-and-migration"
   },
   "diagnosing-bugs": {
@@ -192,7 +199,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "documentation-and-adrs"
   },
   "docx": {
@@ -213,7 +220,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "doubt-driven-development"
   },
   "eval-harness": {
@@ -255,7 +262,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "frontend-ui-engineering"
   },
   "git-guardrails-claude-code": {
@@ -269,7 +276,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "git-workflow-and-versioning"
   },
   "gpt-tasteskill": {
@@ -311,7 +318,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "idea-refine"
   },
   "image-to-code-skill": {
@@ -353,7 +360,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "incremental-implementation"
   },
   "internal-comms": {
@@ -367,7 +374,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "interview-me"
   },
   "iterative-retrieval": {
@@ -381,7 +388,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
+    "sha": "031ea5ce90b5617ef8b3257c3d0739e6b613aaeb",
     "skill": "java-code-review"
   },
   "java-coding-standards": {
@@ -409,7 +416,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
+    "sha": "031ea5ce90b5617ef8b3257c3d0739e6b613aaeb",
     "skill": "jspecify"
   },
   "mcp-builder": {
@@ -437,7 +444,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "observability-and-instrumentation"
   },
   "output-skill": {
@@ -451,7 +458,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
+    "sha": "031ea5ce90b5617ef8b3257c3d0739e6b613aaeb",
     "skill": "pair-programming"
   },
   "pdf": {
@@ -465,14 +472,14 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "performance-optimization"
   },
   "planning-and-task-breakdown": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "planning-and-task-breakdown"
   },
   "postgres-patterns": {
@@ -493,7 +500,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
+    "sha": "031ea5ce90b5617ef8b3257c3d0739e6b613aaeb",
     "skill": "progen"
   },
   "prototype": {
@@ -563,7 +570,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "security-and-hardening"
   },
   "security-review": {
@@ -591,7 +598,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "shipping-and-launch"
   },
   "skill-creator": {
@@ -619,28 +626,28 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "source-driven-development"
   },
   "spec-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "spec-driven-development"
   },
   "spring-boot": {
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
+    "sha": "031ea5ce90b5617ef8b3257c3d0739e6b613aaeb",
     "skill": "spring-boot"
   },
   "spring-modulith-verifier": {
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "14021e61400278b943d7786031f8e75980deb0b0",
+    "sha": "031ea5ce90b5617ef8b3257c3d0739e6b613aaeb",
     "skill": "spring-modulith-verifier"
   },
   "springboot-patterns": {
@@ -759,7 +766,7 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "d2c37ef6225dd8726cdd369a8030307f48592d26",
+    "sha": "020ec10a788f5703108d093a4bd3d9a7c3847d36",
     "skill": "using-agent-skills"
   },
   "using-git-worktrees": {

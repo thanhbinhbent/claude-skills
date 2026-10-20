@@ -38,7 +38,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "ask-matt"
   },
   "async-profiler": {
@@ -69,26 +69,12 @@
     "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
     "skill": "brand-guidelines"
   },
-  "brandkit": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "brandkit"
-  },
   "browser-testing-with-devtools": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
     "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
     "skill": "browser-testing-with-devtools"
-  },
-  "brutalist-skill": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "brutalist-skill"
   },
   "canvas-design": {
     "source": "anthropics-skills",
@@ -115,7 +101,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "code-review"
   },
   "code-review-and-quality": {
@@ -136,7 +122,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "codebase-design"
   },
   "constraint-driven-development": {
@@ -171,7 +157,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "diagnosing-bugs"
   },
   "diagnosing-superpowers": {
@@ -220,7 +206,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "domain-modeling"
   },
   "doubt-driven-development": {
@@ -276,7 +262,7 @@
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "git-guardrails-claude-code"
   },
   "git-workflow-and-versioning": {
@@ -286,39 +272,32 @@
     "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
     "skill": "git-workflow-and-versioning"
   },
-  "gpt-tasteskill": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "gpt-tasteskill"
-  },
   "grill-me": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "grill-me"
   },
   "grill-with-docs": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "grill-with-docs"
   },
   "grilling": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "grilling"
   },
   "handoff": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "handoff"
   },
   "idea-refine": {
@@ -328,46 +307,25 @@
     "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
     "skill": "idea-refine"
   },
-  "image-to-code-skill": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "image-to-code-skill"
-  },
-  "imagegen-frontend-mobile": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "imagegen-frontend-mobile"
-  },
-  "imagegen-frontend-web": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "imagegen-frontend-web"
-  },
   "implement": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "implement"
   },
   "implement-spec": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "implement-spec"
   },
   "improve-codebase-architecture": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "improve-codebase-architecture"
   },
   "incremental-implementation": {
@@ -451,15 +409,8 @@
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "migrate-to-shoehorn"
-  },
-  "minimalist-skill": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "minimalist-skill"
   },
   "observability-and-instrumentation": {
     "source": "addyosmani",
@@ -514,7 +465,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "pr"
   },
   "progen": {
@@ -528,7 +479,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "prototype"
   },
   "python-patterns": {
@@ -552,13 +503,6 @@
     "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
     "skill": "receiving-code-review"
   },
-  "redesign-skill": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "redesign-skill"
-  },
   "requesting-code-review": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
@@ -570,21 +514,21 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "research"
   },
   "retro": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "retro"
   },
   "scaffold-exercises": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "scaffold-exercises"
   },
   "security-and-hardening": {
@@ -605,14 +549,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "setup-matt-pocock-skills"
   },
   "setup-pre-commit": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "setup-pre-commit"
   },
   "shipping-and-launch": {
@@ -635,13 +579,6 @@
     "ref": "main",
     "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
     "skill": "slack-gif-creator"
-  },
-  "soft-skill": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "soft-skill"
   },
   "source-driven-development": {
     "source": "addyosmani",
@@ -692,13 +629,6 @@
     "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
     "skill": "springboot-tdd"
   },
-  "stitch-skill": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "stitch-skill"
-  },
   "subagent-driven-development": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
@@ -717,35 +647,21 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
+    "sha": "63aba5f43b5056758b15bbe7d683da8c86a7a7ad",
     "skill": "taste-skill"
-  },
-  "taste-skill-v1": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "taste-skill-v1"
-  },
-  "taste-skill-v2-experimental": {
-    "source": "taste-skill",
-    "repo": "https://github.com/Leonxlnx/taste-skill.git",
-    "ref": "main",
-    "sha": "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2",
-    "skill": "taste-skill-v2-experimental"
   },
   "tdd": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "tdd"
   },
   "teach": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "teach"
   },
   "test-driven-development": {
@@ -766,28 +682,28 @@
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "to-questionnaire"
   },
   "to-spec": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "to-spec"
   },
   "to-tickets": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "to-tickets"
   },
   "triage": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "triage"
   },
   "using-agent-skills": {
@@ -822,14 +738,14 @@
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "wait-what"
   },
   "wayfinder": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "wayfinder"
   },
   "web-artifacts-builder": {
@@ -850,14 +766,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "wizard"
   },
   "writing-for-agents": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
     "skill": "writing-for-agents"
   },
   "writing-plans": {

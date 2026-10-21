@@ -59,7 +59,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "brainstorming"
   },
   "brand-guidelines": {
@@ -164,7 +164,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "diagnosing-superpowers"
   },
   "discernment-nudge": {
@@ -178,7 +178,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "dispatching-parallel-agents"
   },
   "doc-coauthoring": {
@@ -227,14 +227,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "executing-plans"
   },
   "finishing-a-development-branch": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "finishing-a-development-branch"
   },
   "frontend-design": {
@@ -500,14 +500,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "receiving-code-review"
   },
   "requesting-code-review": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "requesting-code-review"
   },
   "research": {
@@ -633,21 +633,21 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "subagent-driven-development"
   },
   "systematic-debugging": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "systematic-debugging"
   },
   "taste-skill": {
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "63aba5f43b5056758b15bbe7d683da8c86a7a7ad",
+    "sha": "6010f91a9935f1c167dfc500fb1a475681892e6b",
     "skill": "taste-skill"
   },
   "tdd": {
@@ -668,7 +668,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "test-driven-development"
   },
   "theme-factory": {
@@ -717,21 +717,21 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "using-git-worktrees"
   },
   "using-superpowers": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "using-superpowers"
   },
   "verification-before-completion": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "verification-before-completion"
   },
   "wait-what": {
@@ -780,14 +780,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "writing-plans"
   },
   "writing-skills": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "sha": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
     "skill": "writing-skills"
   },
   "xlsx": {

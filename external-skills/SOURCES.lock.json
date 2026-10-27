@@ -38,7 +38,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "ask-matt"
   },
   "async-profiler": {
@@ -101,7 +101,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "code-review"
   },
   "code-review-and-quality": {
@@ -122,7 +122,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "codebase-design"
   },
   "constraint-driven-development": {
@@ -157,7 +157,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "diagnosing-bugs"
   },
   "diagnosing-superpowers": {
@@ -206,7 +206,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "domain-modeling"
   },
   "doubt-driven-development": {
@@ -262,7 +262,7 @@
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "git-guardrails-claude-code"
   },
   "git-workflow-and-versioning": {
@@ -276,28 +276,28 @@
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "grill-me"
   },
   "grill-with-docs": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "grill-with-docs"
   },
   "grilling": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "grilling"
   },
   "handoff": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "handoff"
   },
   "idea-refine": {
@@ -311,21 +311,21 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "implement"
   },
   "implement-spec": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "implement-spec"
   },
   "improve-codebase-architecture": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "improve-codebase-architecture"
   },
   "incremental-implementation": {
@@ -409,7 +409,7 @@
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "migrate-to-shoehorn"
   },
   "observability-and-instrumentation": {
@@ -465,7 +465,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "pr"
   },
   "progen": {
@@ -479,7 +479,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "prototype"
   },
   "python-patterns": {
@@ -514,21 +514,21 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "research"
   },
   "retro": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "retro"
   },
   "scaffold-exercises": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "scaffold-exercises"
   },
   "security-and-hardening": {
@@ -549,14 +549,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "setup-matt-pocock-skills"
   },
   "setup-pre-commit": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "setup-pre-commit"
   },
   "shipping-and-launch": {
@@ -654,14 +654,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "tdd"
   },
   "teach": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "teach"
   },
   "test-driven-development": {
@@ -682,28 +682,28 @@
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "to-questionnaire"
   },
   "to-spec": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "to-spec"
   },
   "to-tickets": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "to-tickets"
   },
   "triage": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "triage"
   },
   "using-agent-skills": {
@@ -738,14 +738,14 @@
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "wait-what"
   },
   "wayfinder": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "wayfinder"
   },
   "web-artifacts-builder": {
@@ -766,14 +766,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "wizard"
   },
   "writing-for-agents": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
     "skill": "writing-for-agents"
   },
   "writing-plans": {

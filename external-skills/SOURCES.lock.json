@@ -52,7 +52,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "backend-patterns"
   },
   "brainstorming": {
@@ -220,7 +220,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "eval-harness"
   },
   "executing-plans": {
@@ -248,7 +248,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "frontend-patterns"
   },
   "frontend-ui-engineering": {
@@ -353,7 +353,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "iterative-retrieval"
   },
   "java-code-review": {
@@ -367,7 +367,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "java-coding-standards"
   },
   "jmh": {
@@ -381,7 +381,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "jpa-patterns"
   },
   "jspecify": {
@@ -395,7 +395,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "kafka-patterns"
   },
   "mcp-builder": {
@@ -451,7 +451,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "postgres-patterns"
   },
   "pptx": {
@@ -486,14 +486,14 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "python-patterns"
   },
   "python-testing": {
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "python-testing"
   },
   "receiving-code-review": {
@@ -542,7 +542,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "security-review"
   },
   "setup-matt-pocock-skills": {
@@ -612,21 +612,21 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "springboot-patterns"
   },
   "springboot-security": {
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "springboot-security"
   },
   "springboot-tdd": {
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "3aecd3262b7194c4e69377201891f956a2b80ca3",
+    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
     "skill": "springboot-tdd"
   },
   "subagent-driven-development": {

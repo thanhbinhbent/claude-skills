@@ -3,28 +3,28 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "academy-guide"
   },
   "addyosmani-test-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "test-driven-development"
   },
   "algorithmic-art": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "algorithmic-art"
   },
   "api-and-interface-design": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "api-and-interface-design"
   },
   "apply-renovate-prs": {
@@ -38,7 +38,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "ask-matt"
   },
   "async-profiler": {
@@ -66,98 +66,98 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "brand-guidelines"
   },
   "browser-testing-with-devtools": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "browser-testing-with-devtools"
   },
   "canvas-design": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "canvas-design"
   },
   "ci-cd-and-automation": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "ci-cd-and-automation"
   },
   "claude-api": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "claude-api"
   },
   "code-review": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "code-review"
   },
   "code-review-and-quality": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "code-review-and-quality"
   },
   "code-simplification": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "code-simplification"
   },
   "codebase-design": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "codebase-design"
   },
   "constraint-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "constraint-driven-development"
   },
   "context-engineering": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "context-engineering"
   },
   "debugging-and-error-recovery": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "debugging-and-error-recovery"
   },
   "deprecation-and-migration": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "deprecation-and-migration"
   },
   "diagnosing-bugs": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "diagnosing-bugs"
   },
   "diagnosing-superpowers": {
@@ -171,7 +171,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "discernment-nudge"
   },
   "dispatching-parallel-agents": {
@@ -185,35 +185,35 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "doc-coauthoring"
   },
   "documentation-and-adrs": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "documentation-and-adrs"
   },
   "docx": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "docx"
   },
   "domain-modeling": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "domain-modeling"
   },
   "doubt-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "doubt-driven-development"
   },
   "eval-harness": {
@@ -241,7 +241,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "frontend-design"
   },
   "frontend-patterns": {
@@ -255,98 +255,98 @@
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "frontend-ui-engineering"
   },
   "git-guardrails-claude-code": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "git-guardrails-claude-code"
   },
   "git-workflow-and-versioning": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "git-workflow-and-versioning"
   },
   "grill-me": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "grill-me"
   },
   "grill-with-docs": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "grill-with-docs"
   },
   "grilling": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "grilling"
   },
   "handoff": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "handoff"
   },
   "idea-refine": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "idea-refine"
   },
   "implement": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "implement"
   },
   "implement-spec": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "implement-spec"
   },
   "improve-codebase-architecture": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "improve-codebase-architecture"
   },
   "incremental-implementation": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "incremental-implementation"
   },
   "internal-comms": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "internal-comms"
   },
   "interview-me": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "interview-me"
   },
   "iterative-retrieval": {
@@ -402,21 +402,21 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "mcp-builder"
   },
   "migrate-to-shoehorn": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "migrate-to-shoehorn"
   },
   "observability-and-instrumentation": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "observability-and-instrumentation"
   },
   "pair-programming": {
@@ -430,21 +430,21 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "pdf"
   },
   "performance-optimization": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "performance-optimization"
   },
   "planning-and-task-breakdown": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "planning-and-task-breakdown"
   },
   "postgres-patterns": {
@@ -458,14 +458,14 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "pptx"
   },
   "pr": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "pr"
   },
   "progen": {
@@ -479,7 +479,7 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "prototype"
   },
   "python-patterns": {
@@ -514,28 +514,28 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "research"
   },
   "retro": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "retro"
   },
   "scaffold-exercises": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "scaffold-exercises"
   },
   "security-and-hardening": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "security-and-hardening"
   },
   "security-review": {
@@ -549,49 +549,49 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "setup-matt-pocock-skills"
   },
   "setup-pre-commit": {
     "source": "mattpocock-misc",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "setup-pre-commit"
   },
   "shipping-and-launch": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "shipping-and-launch"
   },
   "skill-creator": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "skill-creator"
   },
   "slack-gif-creator": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "slack-gif-creator"
   },
   "source-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "source-driven-development"
   },
   "spec-driven-development": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "spec-driven-development"
   },
   "spring-boot": {
@@ -654,14 +654,14 @@
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "tdd"
   },
   "teach": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "teach"
   },
   "test-driven-development": {
@@ -675,42 +675,42 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "theme-factory"
   },
   "to-questionnaire": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "to-questionnaire"
   },
   "to-spec": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "to-spec"
   },
   "to-tickets": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "to-tickets"
   },
   "triage": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "triage"
   },
   "using-agent-skills": {
     "source": "addyosmani",
     "repo": "https://github.com/addyosmani/agent-skills.git",
     "ref": "main",
-    "sha": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+    "sha": "eb07f19f52c2669f2364897aaa293e2aaddd7b1c",
     "skill": "using-agent-skills"
   },
   "using-git-worktrees": {
@@ -738,42 +738,42 @@
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "wait-what"
   },
   "wayfinder": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "wayfinder"
   },
   "web-artifacts-builder": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "web-artifacts-builder"
   },
   "webapp-testing": {
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "webapp-testing"
   },
   "wizard": {
     "source": "mattpocock-eng",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "wizard"
   },
   "writing-for-agents": {
     "source": "mattpocock-prod",
     "repo": "https://github.com/mattpocock/skills.git",
     "ref": "main",
-    "sha": "59db609eb1e18aaf59b63284d0e52255aff0c63c",
+    "sha": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
     "skill": "writing-for-agents"
   },
   "writing-plans": {
@@ -794,7 +794,7 @@
     "source": "anthropics-skills",
     "repo": "https://github.com/anthropics/skills.git",
     "ref": "main",
-    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "sha": "ca45fc496a3436251f191354091d557da31c15b5",
     "skill": "xlsx"
   }
 }

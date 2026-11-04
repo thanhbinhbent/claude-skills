@@ -52,14 +52,14 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "backend-patterns"
   },
   "brainstorming": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "brainstorming"
   },
   "brand-guidelines": {
@@ -164,7 +164,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "diagnosing-superpowers"
   },
   "discernment-nudge": {
@@ -178,7 +178,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "dispatching-parallel-agents"
   },
   "doc-coauthoring": {
@@ -220,21 +220,21 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "eval-harness"
   },
   "executing-plans": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "executing-plans"
   },
   "finishing-a-development-branch": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "finishing-a-development-branch"
   },
   "frontend-design": {
@@ -248,7 +248,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "frontend-patterns"
   },
   "frontend-ui-engineering": {
@@ -353,7 +353,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "iterative-retrieval"
   },
   "java-code-review": {
@@ -367,7 +367,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "java-coding-standards"
   },
   "jmh": {
@@ -381,7 +381,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "jpa-patterns"
   },
   "jspecify": {
@@ -395,7 +395,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "kafka-patterns"
   },
   "mcp-builder": {
@@ -451,7 +451,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "postgres-patterns"
   },
   "pptx": {
@@ -486,28 +486,28 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "python-patterns"
   },
   "python-testing": {
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "python-testing"
   },
   "receiving-code-review": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "receiving-code-review"
   },
   "requesting-code-review": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "requesting-code-review"
   },
   "research": {
@@ -542,7 +542,7 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "security-review"
   },
   "setup-matt-pocock-skills": {
@@ -612,35 +612,35 @@
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "springboot-patterns"
   },
   "springboot-security": {
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "springboot-security"
   },
   "springboot-tdd": {
     "source": "ashfaqbs",
     "repo": "https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit.git",
     "ref": "main",
-    "sha": "11ec9f86df96edf8881778364cb15b599a290e33",
+    "sha": "d31c597978c67f0305f359dbf06b6a74c430715d",
     "skill": "springboot-tdd"
   },
   "subagent-driven-development": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "subagent-driven-development"
   },
   "systematic-debugging": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "systematic-debugging"
   },
   "taste-skill": {
@@ -668,7 +668,7 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "test-driven-development"
   },
   "theme-factory": {
@@ -717,21 +717,21 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "using-git-worktrees"
   },
   "using-superpowers": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "using-superpowers"
   },
   "verification-before-completion": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "verification-before-completion"
   },
   "wait-what": {
@@ -780,14 +780,14 @@
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "writing-plans"
   },
   "writing-skills": {
     "source": "superpowers",
     "repo": "https://github.com/obra/superpowers.git",
     "ref": "main",
-    "sha": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "sha": "22f0b463e7a5e579904dd6211a520321035526f7",
     "skill": "writing-skills"
   },
   "xlsx": {

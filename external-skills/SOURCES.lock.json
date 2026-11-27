@@ -38,7 +38,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "94f8d9fa21ba659e85cbb8a9b33f6e84883de5ef",
+    "sha": "6a3a8f2043373a1b8d6c3051bc28aa7a91731f6a",
     "skill": "apply-renovate-prs"
   },
   "ask-matt": {
@@ -367,7 +367,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "94f8d9fa21ba659e85cbb8a9b33f6e84883de5ef",
+    "sha": "6a3a8f2043373a1b8d6c3051bc28aa7a91731f6a",
     "skill": "java-code-review"
   },
   "java-coding-standards": {
@@ -395,7 +395,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "94f8d9fa21ba659e85cbb8a9b33f6e84883de5ef",
+    "sha": "6a3a8f2043373a1b8d6c3051bc28aa7a91731f6a",
     "skill": "jspecify"
   },
   "kafka-patterns": {
@@ -430,7 +430,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "94f8d9fa21ba659e85cbb8a9b33f6e84883de5ef",
+    "sha": "6a3a8f2043373a1b8d6c3051bc28aa7a91731f6a",
     "skill": "pair-programming"
   },
   "pdf": {
@@ -479,7 +479,7 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "94f8d9fa21ba659e85cbb8a9b33f6e84883de5ef",
+    "sha": "6a3a8f2043373a1b8d6c3051bc28aa7a91731f6a",
     "skill": "progen"
   },
   "prototype": {
@@ -605,14 +605,14 @@
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "94f8d9fa21ba659e85cbb8a9b33f6e84883de5ef",
+    "sha": "6a3a8f2043373a1b8d6c3051bc28aa7a91731f6a",
     "skill": "spring-boot"
   },
   "spring-modulith-verifier": {
     "source": "sivalabs",
     "repo": "https://github.com/sivaprasadreddy/sivalabs-agent-skills.git",
     "ref": "main",
-    "sha": "94f8d9fa21ba659e85cbb8a9b33f6e84883de5ef",
+    "sha": "6a3a8f2043373a1b8d6c3051bc28aa7a91731f6a",
     "skill": "spring-modulith-verifier"
   },
   "springboot-patterns": {
@@ -654,7 +654,7 @@
     "source": "taste-skill",
     "repo": "https://github.com/Leonxlnx/taste-skill.git",
     "ref": "main",
-    "sha": "d1a2bb41d927083ac7118f60cfc9cdf711810ea0",
+    "sha": "952435f63acece7d2fcb4b4d3c1786c1c43603e0",
     "skill": "taste-skill"
   },
   "tdd": {
